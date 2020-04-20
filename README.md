@@ -26,6 +26,6 @@
 * Click "Install"
 * Click "OK"
 
-#### For bugs, enhancements, or other requests [create an issue](https://github.com/einthu/repository.einthusan/issues)
+#### For bugs, enhancements, or other requests [create an issue](https://github.com/ram2141/einthu/issues)
 
 ### :-)
